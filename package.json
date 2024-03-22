@@ -1,0 +1,34 @@
+{
+  "name": "magniaperiam",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "tsc models.d.ts",
+    "doc": "typedoc models.d.ts --out build"
+  },
+  "files": [
+    "models.d.ts",
+    "readme.md"
+  ],
+  "main": "./models.d.ts",
+  "types": "./models.d.ts",
+  "description": "Frontend TypeScript model definitions",
+  "devDependencies": {
+    "typedoc": "^0.22.13",
+    "typescript": "^4.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VivianneLind/magniaperiam.git"
+  },
+  "keywords": [
+    "sapiente",
+    "lms",
+    "lms",
+    "at",
+    "quas"
+  ],
+  "author": "RessieKutch",
+  "license": "ISC",
+  "homepage": "https://github.com/VivianneLind/magniaperiam.git"
+}
